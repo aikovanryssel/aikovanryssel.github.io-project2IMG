@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170" height="172" viewBox="0 0 170 172">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e7ee5"/>
+      <stop offset="1" stop-color="#473f73"/>
+    </radialGradient>
+    <filter id="Ellipse_134" x="0" y="0" width="170" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_26_1" data-name="Component 26 – 1" transform="translate(5.113)">
+    <g transform="matrix(1, 0, 0, 1, -5.11, 0)" filter="url(#Ellipse_134)">
+      <circle id="Ellipse_134-2" data-name="Ellipse 134" cx="76" cy="76" r="76" transform="translate(9)" fill="url(#radial-gradient)"/>
+    </g>
+    <path id="Path_390" data-name="Path 390" d="M4.02.867C5.461.3,6.332,7.541,21.563,9.653s22.294-.392,33.946,6.182,47.255-3.177,63.14-2.285S154.845.889,155.5,1.129c.748.884.719,1.3.5,7.275s-.358,4.9-1.013,5.512c-.438.411-32.325,13.377-41.4,9.589s-19.782-5.691-36.071,1.844-20.161-1.548-37.96-4.8c-9.1-1.662-35.042-2.508-35.222-2.861-.466-.918-.96-5.849-.944-9.8S3.306,1.523,4.02.867Z" transform="translate(10.201 36.915) rotate(25)" fill="rgba(193,183,246,0.7)" opacity="0.5"/>
+    <path id="Path_389" data-name="Path 389" d="M-7.185,5.721C-7.1,5.591-4.574,7.977,3.7,9.962a153.894,153.894,0,0,0,38.734,4.3C55.845,14,71.278,11.334,80.671,10.355,94.017,8.963,106.018,4.9,106.593,5.112c1.4.526-.611,2.382-3.417,5.236a40.194,40.194,0,0,1-7.746,6.321c-.466.222-11.292-.948-23.1.528-10.5,1.312-21.88,5.283-26.061,5.286-6.85,0-4.732-4.144-19.57-2.711S4.185,16.456,3.2,15.945c-1.367-.708-2.721-1.878-6.076-4.852S-7.479,6.16-7.185,5.721Z" transform="translate(16.051 95.038) rotate(25)" fill="rgba(193,183,246,0.7)" opacity="0.5"/>
+    <path id="Path_388" data-name="Path 388" d="M71.027,15.8s25.6,4.033,42.533,3.156,21.849-8.2,23.331-6.1a20.255,20.255,0,0,1,3.08,4.738c1.571,3.207,2.465,5.611,2.2,6.172s-7.681-1.559-25.876,1.047c-29.15,4.176-55.416,5-44.756-.683,14.017-5.109-69.32.532-69.877-1.6.054-1.215,1.095-3.235,2.41-5.813a32.226,32.226,0,0,1,3.4-5.241c.616-.621,9.433,4.857,22.126,4.285A409.312,409.312,0,0,1,71.027,15.8Z" transform="translate(36.874 -1.404) rotate(25)" fill="rgba(193,183,246,0.7)" opacity="0.5"/>
+  </g>
+</svg>
